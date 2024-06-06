@@ -1,3 +1,6 @@
 dbt-env
+*logs
 logs
+dbt.log
 custom_postgres
+*custom_postgres
